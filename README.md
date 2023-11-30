@@ -1,7 +1,15 @@
 # Сламханұлы Жанарыс
 Я Жанарыс из Казахстана, и я разрабатываю сайты и делаю свои пет проекты. Мне реально нравиться учить языки программирования и фреймворки как React, Vue, а также работать с Laravel
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhanik228)](https://github.com/anuraghazra/github-readme-stats)
+## Навыки и Опыт
+* ⚛ React
+* ✔ Vue
+* 💻 Html, Css, Js
+* Laravel
+
+## Работы
+
+
 <!--
 **zhanik228/zhanik228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
