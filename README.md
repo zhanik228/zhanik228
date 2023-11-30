@@ -1,5 +1,8 @@
-### Hi there 👋
+### Хей там 👋
 
+Я Жанарыс из Казахстана, и я разрабатываю сайты и делаю свои пет проекты. Мне реально нравиться учить языки программирования и фреймворки как React, Vue, а также работать с Laravel
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/zhanik228/github-readme-stats)
 <!--
 **zhanik228/zhanik228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
