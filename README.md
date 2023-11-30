@@ -8,7 +8,7 @@
 * Laravel
 
 ## Работы
-<img src="https://ibb.co.com/nbC6782" alt="admin" />
+<a><img src="https://freeimage.host/i/JxsUzjp" alt="admin" /></a>
 
 <!--
 **zhanik228/zhanik228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
